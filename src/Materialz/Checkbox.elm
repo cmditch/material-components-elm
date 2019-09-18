@@ -1,4 +1,4 @@
-module Material.Checkbox exposing (checkbox, checkboxConfig, CheckboxConfig, CheckboxState(..))
+module Materialz.Checkbox exposing (checkbox, checkboxConfig, CheckboxConfig, CheckboxState(..))
 
 {-| Checkboxes allow the user to select one or more items from a set.
 

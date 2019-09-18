@@ -1,4 +1,4 @@
-module Material.Card exposing
+module Materialz.Card exposing
     ( card, cardConfig, CardConfig, CardContent
     , CardBlock
     , cardBlock

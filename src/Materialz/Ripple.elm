@@ -1,4 +1,4 @@
-module Material.Ripple exposing
+module Materialz.Ripple exposing
     ( ripple, rippleConfig, RippleConfig
     , unboundedRipple
     , RippleColor(..)

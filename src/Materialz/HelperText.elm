@@ -1,4 +1,4 @@
-module Material.HelperText exposing (helperLine, helperText, helperTextConfig, HelperTextConfig)
+module Materialz.HelperText exposing (helperLine, helperText, helperTextConfig, HelperTextConfig)
 
 {-| Helper text gives context about a field’s input, such as how the input will
 be used. It should be visible either persistently or only on focus.

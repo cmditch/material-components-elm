@@ -1,4 +1,4 @@
-module Material.Fab exposing
+module Materialz.Fab exposing
     ( fab, fabConfig, FabConfig
     , extendedFab, extendedFabConfig, ExtendedFabConfig
     )

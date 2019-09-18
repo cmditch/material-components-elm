@@ -1,4 +1,4 @@
-module Material.Slider exposing (slider, sliderConfig, SliderConfig)
+module Materialz.Slider exposing (slider, sliderConfig, SliderConfig)
 
 {-| MDC Slider provides an implementation of the Material Design slider
 component.

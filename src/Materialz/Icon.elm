@@ -1,4 +1,4 @@
-module Material.Icon exposing (icon, iconConfig, IconConfig)
+module Materialz.Icon exposing (icon, iconConfig, IconConfig)
 
 {-| Icons render a Material Icon.
 

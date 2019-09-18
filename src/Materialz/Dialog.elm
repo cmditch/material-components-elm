@@ -1,4 +1,4 @@
-module Material.Dialog exposing (dialog, dialogConfig, DialogConfig, DialogContent)
+module Materialz.Dialog exposing (dialog, dialogConfig, DialogConfig, DialogContent)
 
 {-| Dialogs inform users about a task and can contain critical information, require decisions, or involve multiple tasks.
 

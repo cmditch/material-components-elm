@@ -1,4 +1,4 @@
-module Material.FormField exposing (formField, formFieldConfig, FormFieldConfig)
+module Materialz.FormField exposing (formField, formFieldConfig, FormFieldConfig)
 
 {-| FormField aligns a form field (for example, a checkbox) with
 its label and makes it RTL-aware. It also activates a ripple effect upon

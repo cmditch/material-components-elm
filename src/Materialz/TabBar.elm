@@ -1,4 +1,4 @@
-module Material.TabBar exposing
+module Materialz.TabBar exposing
     ( tabBar, tabBarConfig, TabBarConfig
     , tab, tabConfig, TabConfig, TabContent, Tab
     , TabScrollerConfig, tabScrollerConfig

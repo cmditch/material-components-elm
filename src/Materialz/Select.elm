@@ -1,4 +1,4 @@
-module Material.Select exposing
+module Materialz.Select exposing
     ( filledSelect, selectConfig, SelectConfig
     , selectOption, selectOptionConfig, SelectOptionConfig, SelectOption
     , outlinedSelect

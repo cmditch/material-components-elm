@@ -1,4 +1,4 @@
-module Material.Switch exposing (switch, SwitchConfig, switchConfig)
+module Materialz.Switch exposing (switch, SwitchConfig, switchConfig)
 
 {-| Switches toggle the state of a single setting on or off. They are the
 preferred way to adjust settings on mobile.

@@ -1,4 +1,4 @@
-module Material.Typography exposing
+module Materialz.Typography exposing
     ( headline1, headline2, headline3, headline4, headline5, headline6
     , body1, body2
     , subtitle1, subtitle2

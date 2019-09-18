@@ -1,4 +1,4 @@
-module Material.Theme exposing
+module Materialz.Theme exposing
     ( primary, secondary, background
     , onPrimary, onSecondary, onSurface
     , primaryBg, secondaryBg, surface

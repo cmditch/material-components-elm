@@ -1,4 +1,4 @@
-module Material.Button exposing
+module Materialz.Button exposing
     ( textButton, buttonConfig, ButtonConfig
     , outlinedButton, raisedButton, unelevatedButton
     )

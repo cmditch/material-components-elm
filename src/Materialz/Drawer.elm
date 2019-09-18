@@ -1,4 +1,4 @@
-module Material.Drawer exposing
+module Materialz.Drawer exposing
     ( permanentDrawer, permanentDrawerConfig, PermanentDrawerConfig
     , drawerContent
     , drawerHeader, drawerTitle, drawerSubtitle

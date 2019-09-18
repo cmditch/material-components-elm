@@ -1,4 +1,4 @@
-module Material.Select.Enhanced exposing
+module Materialz.Select.Enhanced exposing
     ( filledEnhancedSelect, enhancedSelectConfig, EnhancedSelectConfig
     , selectItem, selectItemConfig, SelectItemConfig
     , outlinedEnhancedSelect

@@ -1,4 +1,4 @@
-module Material.Chips exposing
+module Materialz.Chips exposing
     ( choiceChipSet, choiceChip, ChoiceChip, choiceChipConfig, ChoiceChipConfig
     , filterChipSet, filterChip, FilterChip, filterChipConfig, FilterChipConfig
     , inputChipSet, inputChip, InputChip, inputChipConfig, InputChipConfig

@@ -1,4 +1,4 @@
-module Material.TopAppBar exposing
+module Materialz.TopAppBar exposing
     ( topAppBar, topAppBarConfig, TopAppBarConfig
     , row, section, alignEnd, alignStart
     , navigationIcon, title

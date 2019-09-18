@@ -1,4 +1,4 @@
-module Material.TextField exposing
+module Materialz.TextField exposing
     ( textField, textFieldConfig, TextFieldConfig
     , textFieldIcon
     , characterCounter
@@ -169,7 +169,7 @@ import Html exposing (Html, text)
 import Html.Attributes exposing (class)
 import Html.Events
 import Json.Decode as Decode
-import Material.Icon exposing (IconConfig, icon, iconConfig)
+import Materialz.Icon exposing (IconConfig, icon, iconConfig)
 
 
 {-| Configuration of a text field

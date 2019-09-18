@@ -1,4 +1,4 @@
-module Material.Snackbar exposing
+module Materialz.Snackbar exposing
     ( snackbar, snackbarConfig, SnackbarConfig
     , Queue, initialQueue, Msg, update
     , addMessage
