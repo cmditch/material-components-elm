@@ -1,4 +1,4 @@
-module Material.IconButton exposing
+module Materialz.IconButton exposing
     ( iconButton, iconButtonConfig, IconButtonConfig
     , customIconButton
     )
