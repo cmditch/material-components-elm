@@ -1,4 +1,4 @@
-module Material.LinearProgress exposing
+module Materialz.LinearProgress exposing
     ( indeterminateLinearProgress, linearProgressConfig, LinearProgressConfig
     , determinateLinearProgress
     , bufferedLinearProgress
