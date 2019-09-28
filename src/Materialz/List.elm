@@ -1,4 +1,4 @@
-module Material.List exposing
+module Materialz.List exposing
     ( list, listConfig, ListConfig
     , listItem, listItemConfig, ListItemConfig
     , listItemText, listItemPrimaryText, listItemSecondaryText
